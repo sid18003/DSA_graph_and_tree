@@ -15,13 +15,9 @@ A comprehensive visualizer for Data Structures and Algorithms (DSA) focused on G
 - Visualize popular graph algorithms such as:
   - Depth First Search (DFS)
   - Breadth First Search (BFS)
-  - Dijkstra's Algorithm
-  - A* Search Algorithm
+  - Shortest path
 - Visualize tree algorithms such as:
   - Binary Tree Traversal (Preorder, Inorder, Postorder)
-  - Binary Search Tree Operations
-  - AVL Tree Rotations
-- Interactive elements to add and remove nodes and edges dynamically.
 - User-friendly interface for a better learning experience.
 
 ## Technologies Used
@@ -31,13 +27,7 @@ A comprehensive visualizer for Data Structures and Algorithms (DSA) focused on G
   - HTML
   - CSS
   - Tailwind CSS
-- **Backend**: 
-  - Node.js
-  - Express.js
-- **Database**: 
-  - MongoDB (if applicable)
-- **Others**: 
-  - Socket.IO (for real-time updates, if applicable)
+
 
 ## Installation
 
